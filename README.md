@@ -1,7 +1,7 @@
 # League Of Legends Project
 
 ## Context
-In this project, I conducted a thorough [data analysis](https://github.com/HoangPham2704/League_Of_Legends_DA_Project/blob/main/League_Of_Legends.ipynb) of League of Legends champions to identify which champions are performing well in Season 13.21. The goal was to have insights to help myself gain a competitive advantage over other players.
+In this project, I conducted a [data analysis](https://github.com/HoangPham2704/League_Of_Legends_DA_Project/blob/main/League_Of_Legends.ipynb) of League of Legends champions to identify which champions are performing well in Season 13.21. The goal was to have insights to help myself gain a competitive advantage over other players.
 
 ## Content
 This dataset contains champion stats of ranked League of Legends games.
