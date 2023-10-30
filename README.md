@@ -7,9 +7,9 @@ In this project, I conducted a thorough data analysis of League of Legends champ
 This dataset contains champion stats of ranked League of Legends games.
 Columns' description are listed below:
 * Name : Name of the champion
-* Class : Fighter, Assassin, Mage, Marksman, Support or Tank
 * Role : Top, Mid, ADC, Support or Jungle
-* Tier : God, S, A, B, C or D
+* State : God, Strong, Good, Fair, Weak, Bad
+* Tier : S+, S, A, B, C or D
 * Score : Overall score of the champion
 * Trend : Trend of the score
 * Win % : Win rate of the champion
