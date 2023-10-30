@@ -19,9 +19,9 @@ Columns' description are listed below:
 * KDA : (Kill+Death)/Assist ratio of the champion
 
 ## Acknowledgements
-Data from [METAsrc](https://www.metasrc.com/lol/stats).
-
 
 This analysis is a valuable resource for League of Legends players looking to improve their performance in Season 13.21. By leveraging these insights, you can make more informed decisions and increase your chances of success on the Summoner's Rift.
 
 Feel free to customize and expand upon this summary as needed to better reflect the specific findings and insights from your analysis. You can also include relevant links or references to your analysis files or data sources in your GitHub repository.
+
+Data from [METAsrc](https://www.metasrc.com/lol/stats).
