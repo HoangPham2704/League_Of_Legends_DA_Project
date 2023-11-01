@@ -44,8 +44,9 @@ Columns' description are listed below:
 
 ## Acknowledgements
 
-This analysis is a valuable resource for League of Legends players looking to improve their performance in Season 13.21. By leveraging these insights, you can make more informed decisions and increase your chances of success on the Summoner's Rift.
-
-We hope you find this League of Legends analysis insightful and enjoyable. Explore the world of League of Legends data to enhance your gaming experience and insights into the game's competitive scene.
+* This analysis is a valuable resource for League of Legends players looking to improve their performance in Season 13.21.
+* By leveraging these insights, you can make more informed decisions and increase your chances of success on the Summoner's Rift.
+* We hope you find this League of Legends analysis insightful and enjoyable.
+* Explore the world of League of Legends data to enhance your gaming experience and insights into the game's competitive scene.
 
 Feel free to connect, contribute, and share your feedback. Have fun analyzing the data and improving your League of Legends skills!
