@@ -1,9 +1,18 @@
-# League Of Legends Project
+# League Of Legends Data Project
 
 ## Context
-In this project, I conducted a [data analysis of League of Legends champions](https://github.com/HoangPham2704/League_Of_Legends_DA_Project/blob/main/League_Of_Legends.ipynb) to identify which champions are performing well in Season 13.21. The goal was to have insights to help myself gain a competitive advantage over other players.
+This project focuses on data analysis within the popular online multiplayer game, League of Legends. The analysis aims to provide insights into statistics, to identify which champions are performing well in Season 13.21. Whether you're a League of Legends enthusiast or a data analyst, this project offers valuable information about the game.
+
+The goal was to have insights to help gain a competitive advantage over other players.
+
+## Data Source
+
+Data from [METAsrc](https://www.metasrc.com/lol/stats).
+
+Please note that this analysis is based on publicly available data sources, and no personal player information is included.
 
 ## Content
+
 This dataset contains champion stats from ranked League of Legends matches.
 Columns' description are listed below:
 * Name : Name of the champion
@@ -18,10 +27,23 @@ Columns' description are listed below:
 * Ban % : Ban rate of the champion
 * KDA : (Kill+Death)/Assist ratio of the champion
 
+## Project Highlights
+
+- **Champion Performance Analysis:** Discover which champions have the highest win rates, play rates, and ban rates in different game modes.
+
+## How to Use
+1. Access the analysis by visiting [League Of Legends Data Project](https://github.com/HoangPham2704/League_Of_Legends_DA_Project/blob/main/League_Of_Legends.ipynb).
+
+2. Navigate through the various sections and visualizations to gain insights into League of Legends champions performance.
+
+3. Use filters, sorting options, or selectors to customize your analysis based on your interests.
+
+4. Feel free to reach out with questions, suggestions, or requests for specific analyses.
+
 ## Acknowledgements
 
 This analysis is a valuable resource for League of Legends players looking to improve their performance in Season 13.21. By leveraging these insights, you can make more informed decisions and increase your chances of success on the Summoner's Rift.
 
-Feel free to customize and expand upon this summary as needed to better reflect the specific findings and insights from your analysis. You can also include relevant links or references to your analysis files or data sources in your GitHub repository.
+We hope you find this League of Legends analysis insightful and enjoyable. Explore the world of League of Legends data to enhance your gaming experience and insights into the game's competitive scene.
 
-Data from [METAsrc](https://www.metasrc.com/lol/stats).
+Feel free to connect, contribute, and share your feedback. Have fun analyzing the data and improving your League of Legends skills!
