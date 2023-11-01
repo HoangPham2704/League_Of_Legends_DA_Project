@@ -1,7 +1,11 @@
 # League Of Legends Data Analysis Project
 
 ## Context
-This project focuses on data analysis within the popular online multiplayer game, League of Legends. The analysis aims to provide insights into statistics, to identify which champions are performing well in Season 13.21. Whether you're a League of Legends enthusiast or a data analyst, this project offers valuable information about the game.
+This project focuses on data analysis within the popular online multiplayer game, League of Legends. 
+
+The analysis aims to provide insights into statistics, to identify which champions are performing well in Season 13.21. 
+
+Whether you're a League of Legends enthusiast or a data analyst, this project offers valuable information about the game.
 
 The goal was to have insights to help gain a competitive advantage over other players.
 
