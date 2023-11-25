@@ -31,7 +31,7 @@ Columns' description are listed below:
 
 ## Project Highlights
 
-- **Champion Performance Analysis:** Discover which champions have the highest win rate, play rate, ban rate in game, and the average of those rates. Compare champions pick rate versus ban rate, win rate versus ban rate, and role win rate.
+- **Champion Performance Analysis:** Discover which champions have the highest win rate, play rate, ban rate in game. Compare champions pick rate versus ban rate, win rate versus ban rate, and role win rate.
 
 * Champions have the highest win rate:
 ![](Cwr.png)
