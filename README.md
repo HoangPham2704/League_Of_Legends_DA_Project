@@ -31,7 +31,25 @@ Columns' description are listed below:
 
 ## Project Highlights
 
-- **Champion Performance Analysis:** Discover which champions have the highest win rates, play rates, and ban rates in different game modes.
+- **Champion Performance Analysis:** Discover which champions have the highest win rate, play rate, ban rate in game, and the average of those rates. Compare champions pick rate versus ban rate, win rate versus ban rate, and role win rate.
+
+* Champions have the highest win rate
+![](Cwr.png)
+
+* Champions have the highest play rate
+![](Cpr.png)
+
+* Champions have the highest ban rate
+![](Cbr.png)
+
+* Role win rate:
+![](orw.png)
+
+* Champions pick rate versus ban rate
+![](Cprvsbr.png)
+
+* Champions win rate versus ban rate
+![](cwhwralbr.png)
 
 ## Acknowledgements
 
@@ -44,5 +62,6 @@ Columns' description are listed below:
 * The analysis also lack data integrity because many players might not public their personal matches so some champions might have a slightly higher win rate than other champsions.
 * The dataset synthesized information from different rank levels so many champions might not be the best for certain rank to use because the skill ceiling of them might be too high.
 
-## 
-Finally, I hope you find this League of Legends analysis insightful and enjoyable. Have a wonderful day. :D
+
+##
+Finally, I hope you find this League of Legends analysis insightful and enjoyable. Have a wonderful day :D
