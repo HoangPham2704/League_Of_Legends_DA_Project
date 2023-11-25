@@ -33,24 +33,25 @@ Columns' description are listed below:
 
 - **Champion Performance Analysis:** Discover which champions have the highest win rate, play rate, ban rate in game, and the average of those rates. Compare champions pick rate versus ban rate, win rate versus ban rate, and role win rate.
 
-* Champions have the highest win rate
+* Champions have the highest win rate:
 ![](Cwr.png)
 
-* Champions have the highest play rate
+* Champions have the highest play rate:
 ![](Cpr.png)
 
-* Champions have the highest ban rate
+* Champions have the highest ban rate:
 ![](Cbr.png)
 
-* Role win rate:
+* Overall roles win rate:
 
 ![](orw.png)
 
-* Champions pick rate versus ban rate
+* Champions pick rate versus ban rate:
 ![](Cprvsbr.png)
 
-* Champions win rate versus ban rate
+* Champions win rate versus ban rate:
 ![](cwhwralbr.png)
+
 
 ## Acknowledgements
 
