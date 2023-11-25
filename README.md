@@ -43,6 +43,7 @@ Columns' description are listed below:
 ![](Cbr.png)
 
 * Role win rate:
+
 ![](orw.png)
 
 * Champions pick rate versus ban rate
