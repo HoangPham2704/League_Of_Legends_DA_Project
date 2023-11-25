@@ -38,6 +38,11 @@ Columns' description are listed below:
 * This analysis is adataset comprised records from over 100,000+ games, analysis on 166 League of Legends champions, encompassing various roles, aiming to provide an overview of champion performance across different roles which result in valuable insights for League of Legends players looking to improve their win rate in Season 13.21.
 * By leveraging these insights, I formulated various strategies capitalizing on the abnormal strengths of League of Legends champions in the current season to gain a competitive advantage over other players.
 * My overall win rate has increased by 8% from 53%.
-* There are many limitations in this analysis because it yet to give in-dept insights about itemization and which champions can pair up with others thanks to their unique interact with each other. The analysis also lack data integrity because many players might not public their personal matches so some champions might have a slightly higher win rate than other champsions. The dataset synthesized information from different rank levels so many champions might not be the best for certain rank to use because the skill ceiling of them might be too high.
 
-I hope you find this League of Legends analysis insightful and enjoyable.
+## Limitations:
+* There are many limitations in this analysis because it yet to give in-dept insights about itemization and which champions can pair up with others thanks to their unique interact with each other.
+* The analysis also lack data integrity because many players might not public their personal matches so some champions might have a slightly higher win rate than other champsions.
+* The dataset synthesized information from different rank levels so many champions might not be the best for certain rank to use because the skill ceiling of them might be too high.
+
+
+Finally, I hope you find this League of Legends analysis insightful and enjoyable. Have a wonderful day. :D
