@@ -44,5 +44,5 @@ Columns' description are listed below:
 * The analysis also lack data integrity because many players might not public their personal matches so some champions might have a slightly higher win rate than other champsions.
 * The dataset synthesized information from different rank levels so many champions might not be the best for certain rank to use because the skill ceiling of them might be too high.
 
-
+## 
 Finally, I hope you find this League of Legends analysis insightful and enjoyable. Have a wonderful day. :D
