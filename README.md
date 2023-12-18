@@ -5,7 +5,7 @@
 * This project focuses on data analysis within the popular online multiplayer game, League of Legends. 
 * The analysis aims to provide insights into statistics, to identify which champions are performing well in Season 13.21. 
 * Whether you're a League of Legends enthusiast or a data analyst, this project offers valuable information about the game.
-* The goal was to have insights to help gain a competitive advantage over other players.
+* The goal is to have insights to help gain a competitive advantage over other players.
 
 ## Data Source
 
@@ -65,5 +65,8 @@ Columns' description are listed below:
 * The dataset synthesized information from different rank levels so many champions might not be the best for certain rank to use because the skill ceiling of them might be too high.
 
 
-##
+## Outcome:
+
+Based on the analysis conducted, a newly introduced champion named Briar, designated for the "Jungle" role, demonstrates an unexpectedly high win-rate coupled with a notable ban-rate. This suggests that her performance significantly surpasses that of other champions within the League of Legends roster.
+
 Finally, I hope you find this League of Legends analysis insightful and enjoyable. Have a wonderful day :D
